@@ -17,7 +17,7 @@
 * **Reto**: Evitar rupturas de stock y optimizar capital mediante un sistema de alertas.
 * **Técnica**: Lógica condicional `CASE WHEN` y automatización de reportes.
 
-### 2. [📈 Análisis de Rentabilidad y Ventas](./proyecto-rentabilidad)
+### 2. [📈 Análisis de Rentabilidad y Ventas](https://github.com/GuilleBerrutti/analisis-de-rentabilidad)
 * **Reto**: Evaluar el desempeño comercial y la inactividad de clientes en Northwind.
 * **Técnica**: Consultas complejas con `JOINS`, subconsultas y funciones de agregación.
 
