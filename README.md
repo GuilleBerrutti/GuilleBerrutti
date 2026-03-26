@@ -13,7 +13,7 @@
 
 ## 📂 Proyectos Destacados
 
-### 1. [📦 Auditoría de Inventario y Control de Stock](./auditoria-de-stock)
+### 1. [📦 Auditoría de Inventario y Control de Stock](https://github.com/GuilleBerrutti/auditoria-de-stock)
 * **Reto**: Evitar rupturas de stock y optimizar capital mediante un sistema de alertas.
 * **Técnica**: Lógica condicional `CASE WHEN` y automatización de reportes.
 
