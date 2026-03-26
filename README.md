@@ -24,8 +24,8 @@
 ---
 
 ## 📫 Contacto
-* **LinkedIn**: [Tu link aquí]
-* **Email**: [Tu email aquí]
+* **LinkedIn**: www.linkedin.com/in/guillermo-data-analyst
+* **Email**: guilleberrutti@gmail.com
 
 ---
 *"Los datos cuentan una historia, mi trabajo es darle voz."*
