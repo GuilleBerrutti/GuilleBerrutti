@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🚀 Hola, soy Guillermo | Analista de Datos
 
-<!--
-**GuilleBerrutti/GuilleBerrutti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi portafolio! Soy un apasionado por transformar datos en información estratégica para la toma de decisiones. Actualmente, estoy finalizando mi especialización en análisis de datos con foco en **SQL y PostgreSQL** (Mayo 2026).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mi Stack Técnico
+* **Base de Datos**: PostgreSQL, SQL Server, MySQL.
+* **Herramientas**: DBeaver, GitHub, Excel Avanzado.
+* **En Aprendizaje**: Power BI y Python para ciencia de datos.
+
+---
+
+## 📂 Proyectos Destacados
+
+### 1. [📦 Auditoría de Inventario y Control de Stock](./proyecto-control-stock/)
+* **Reto**: Evitar rupturas de stock y optimizar capital mediante un sistema de alertas.
+* **Técnica**: Lógica condicional `CASE WHEN` y automatización de reportes.
+
+### 2. [📈 Análisis de Rentabilidad y Ventas](./proyecto-rentabilidad/)
+* **Reto**: Evaluar el desempeño comercial y la inactividad de clientes en Northwind.
+* **Técnica**: Consultas complejas con `JOINS`, subconsultas y funciones de agregación.
+
+---
+
+## 📫 Contacto
+* **LinkedIn**: [Tu link aquí]
+* **Email**: [Tu email aquí]
+
+---
+*"Los datos cuentan una historia, mi trabajo es darle voz."*
