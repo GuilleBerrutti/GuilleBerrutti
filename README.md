@@ -13,7 +13,7 @@
 
 ## 📂 Proyectos Destacados
 
-### 1. [📦 sql-postgresql-data-analysis-inventory](https://github.com/GuilleBerrutti/auditoria-de-stock)
+### 1. [📦 sql-postgresql-data-analysis-inventory](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 * **Reto**: Evitar rupturas de stock y optimizar capital mediante un sistema de alertas.
 * **Técnica**: Lógica condicional `CASE WHEN` y automatización de reportes.
 
