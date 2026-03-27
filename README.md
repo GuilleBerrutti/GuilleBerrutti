@@ -7,8 +7,6 @@
 ## 🛠️ Mi Stack Técnico
 * **Base de Datos**: PostgreSQL, SQL Server, MySQL.
 * **Herramientas**: DBeaver, GitHub, Excel Avanzado.
-* **En Aprendizaje**: Power BI y Python para ciencia de datos.
-
 ---
 
 ## 📂 Proyectos Destacados
