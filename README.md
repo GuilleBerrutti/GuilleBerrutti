@@ -17,7 +17,7 @@
 * **Reto**: Evitar rupturas de stock y optimizar capital mediante un sistema de alertas.
 * **Técnica**: Lógica condicional `CASE WHEN` y automatización de reportes.
 
-### 2. [📈 sql-postgresql-data-analysis-northwind](https://github.com/GuilleBerrutti/analisis-de-rentabilidad)
+### 2. [📈 sql-postgresql-data-analysis-northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 * **Reto**: Evaluar el desempeño comercial y la inactividad de clientes en Northwind.
 * **Técnica**: Consultas complejas con `JOINS`, subconsultas y funciones de agregación.
 
