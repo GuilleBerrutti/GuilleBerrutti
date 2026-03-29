@@ -31,7 +31,7 @@ Actualmente, me especializo en la extracción y manipulación de datos mediante 
 * **Solución**: Creación de un sistema de alertas (Semáforo) mediante lógica condicional.
 * **Key Skills**: `CASE WHEN`, `Casting ::numeric`, `Data Formatting`.
 
-### 3. [🛒 Análisis de Datos Northwind](./sql-postgresql-data-analysis-northwind)
+### 3. [🛒 Análisis de Datos Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 * **Descripción**: Exploración y análisis de una base de datos de comercio electrónico para entender el flujo de pedidos y proveedores.
 * **Key Skills**: Consultas multi-tabla, filtrado avanzado y reportes de ventas mensuales e **integración con Power BI**.
 
