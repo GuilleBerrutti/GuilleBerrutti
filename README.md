@@ -21,7 +21,7 @@ Actualmente, me especializo en la extracción y manipulación de datos mediante 
 
 ## 📂 Proyectos Destacados
 
-### 1. [📉 Análisis de Churn (Retención de Clientes)](./analysis-churn)
+### 1. [📉 Análisis de Churn (Retención de Clientes)](https://github.com/GuilleBerrutti/analysis-churn)
 * **Problema**: Evaluar el desempeño de ventas y la relación con los clientes para detectar inactividad.
 * **Solución**: Consultas complejas para calcular márgenes y segmentar clientes según su comportamiento.
 * **Key Skills**: `JOINS`, `Aggregate Functions`, `Subqueries`, `Window Functions`.
