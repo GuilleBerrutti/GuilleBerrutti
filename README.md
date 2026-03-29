@@ -26,7 +26,7 @@
 * [cite_start]**Solución**: Consultas complejas para calcular márgenes y segmentar clientes según su comportamiento. [cite: 9]
 * [cite_start]**Key Skills**: `JOINS`, `Aggregate Functions`, `Subqueries`, `Window Functions`. [cite: 9]
 
-### 2. [📦 Auditoría de Inventario y Control de Stock](./sql-postgresql-data-analysis-inventory)
+### 2. [📦 Auditoría de Inventario y Control de Stock](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 * [cite_start]**Problema**: Identificar productos críticos para evitar pérdida de ventas por falta de stock. [cite: 6]
 * [cite_start]**Solución**: Creación de un sistema de alertas (Semáforo) mediante lógica condicional. [cite: 7]
 * [cite_start]**Key Skills**: `CASE WHEN`, `Casting ::numeric`, `Data Formatting`. [cite: 8]
