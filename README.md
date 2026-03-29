@@ -21,7 +21,7 @@
 
 ## 📂 Proyectos Destacados
 
-### 1. [📉 Análisis de Churn (Retención de Clientes)](https://github.com/GuilleBerrutti/analysis-churn)
+### 1. [📉 Análisis de Churn (Retención de Clientes)](https://github.com/GuilleBerrutti/analysis-churn/tree/main/analysis-churn)
 * [cite_start]**Problema**: Evaluar el desempeño de ventas y la relación con los clientes para detectar inactividad. [cite: 8, 9]
 * [cite_start]**Solución**: Consultas complejas para calcular márgenes y segmentar clientes según su comportamiento. [cite: 9]
 * [cite_start]**Key Skills**: `JOINS`, `Aggregate Functions`, `Subqueries`, `Window Functions`. [cite: 9]
