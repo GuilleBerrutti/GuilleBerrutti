@@ -26,7 +26,7 @@ Actualmente, me especializo en la extracción y manipulación de datos mediante 
 * **Solución**: Consultas complejas para calcular márgenes y segmentar clientes según su comportamiento.
 * **Key Skills**: `JOINS`, `Aggregate Functions`, `Subqueries`, `Window Functions`.
 
-### 2. [📦 Auditoría de Inventario y Control de Stock](./sql-postgresql-data-analysis-inventory)
+### 2. [📦 Auditoría de Inventario y Control de Stock](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 * **Problema**: Identificar productos críticos para evitar pérdida de ventas por falta de stock.
 * **Solución**: Creación de un sistema de alertas (Semáforo) mediante lógica condicional.
 * **Key Skills**: `CASE WHEN`, `Casting ::numeric`, `Data Formatting`.
