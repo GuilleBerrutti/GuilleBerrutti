@@ -2,6 +2,17 @@
 
 Analista de Datos con enfoque en la optimización de procesos y la creación de soluciones visuales estratégicas. Mi trabajo se centra en transformar grandes volúmenes de información en tableros de control accionables y eficientes.
 
+| Herramienta | Icono |
+| :--- | :--- |
+| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Visualización** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) |
+| **Programación** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Control de Versiones** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
+
+
+
+
 ### 🛠️ Mi Stack Tecnológico
 
 <p align="left">
@@ -42,6 +53,16 @@ Modelado de datos complejo y limpieza avanzada.
 * 🐍 **Incursionando en Python:** Actualmente explorando librerías como Pandas y NumPy para potenciar mis flujos de ETL y análisis estadístico.
 * 🎓 **Próximo Hito:** Certificación profesional en SQL + Power BI (Mayo 2026).
 * 🎨 **Creatividad:** Desarrollo de narrativa visual aplicada al Storytelling de datos.
+
+### 📫 Conectemos
+
+<p align="left">
+<a href="https://linkedin.com/in/guillermo-data-analyst target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:guilleberrutti@gmail.com target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+
+
 
 ### 📫 Conectemos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-data-analyst/)
