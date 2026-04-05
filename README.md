@@ -29,7 +29,7 @@ Análisis integral de RRHH orientado a la retención de talento y optimización 
 Estudio detallado de ventas, inventario y rentabilidad utilizando una base de datos relacional robusta.
 * **Tecnologías:** PostgreSQL, Power BI.
 
-#### 📦 [Stock Audit System](https://github.com/GuilleBerrutti/stock-audit-project)
+#### 📦 [Stock Audit System](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 Sistema de auditoría de inventario con alertas dinámicas y lógica de semaforización para stock crítico.
 * **Tecnologías:** SQL, Excel Avanzado.
 
