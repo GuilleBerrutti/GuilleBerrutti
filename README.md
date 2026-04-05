@@ -1,6 +1,6 @@
 # 🚀 Hola, soy Guillermo | Data Analyst
 
-Analista de Datos con enfoque en la optimización de procesos y la creación de soluciones visuales estratégicas. Mi trabajo se centra en transformar grandes volúmenes de información en tableros de control accionables y eficientes.
+Analista de Datos enfocado en transformar información compleja en soluciones estratégicas. Especialista en la creación de tableros de control y automatización de procesos de negocio.
 
 ### 🛠️ Mi Stack Tecnológico
 
@@ -16,32 +16,28 @@ Analista de Datos con enfoque en la optimización de procesos y la creación de 
 
 ### 📂 Proyectos Destacados
 
+#### 📈 [Customer Churn Analysis](https://github.com/GuilleBerrutti/analysis-churn)
+Estudio predictivo sobre la pérdida de clientes. Utilizo **Python** para el procesamiento de datos y análisis estadístico.
+* **Tecnologías:** Python (Pandas, NumPy), Jupyter Notebook.
+* **Foco:** Identificación de patrones de abandono y limpieza de datasets complejos.
+
 #### 📊 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
-Análisis de KPIs de recursos humanos centrado en la retención de talento y la estructura organizacional.
-* **Herramientas:** Power BI, DAX.
-* **Foco:** Visualización de rotación y optimización de gestión de personal.
+Análisis integral de RRHH orientado a la retención de talento y optimización del clima organizacional.
+* **Tecnologías:** Power BI, DAX.
 
-#### 🛒 [E-commerce Data Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
-Proyecto integral sobre ventas y rentabilidad utilizando bases de datos relacionales.
-* **Herramientas:** PostgreSQL, Python, Power BI.
-* **Python Integration:** Implementación de scripts iniciales para la limpieza de datos antes de su visualización.
+#### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/northwind-analysis)
+Estudio detallado de ventas, inventario y rentabilidad utilizando una base de datos relacional robusta.
+* **Tecnologías:** PostgreSQL, Power BI.
 
-#### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
-Sistema de auditoría de inventario con alertas visuales dinámicas.
-* **Herramientas:** SQL, Python, Excel.
-* **Python Integration:** Automatización de lógica de stock para identificar faltantes de manera proactiva.
-
-#### 📑 [Analisis de fuga](https://github.com/GuilleBerrutti/analysis-churn)
-Modelado de datos complejo y limpieza avanzada.
-* **Herramientas:** Excel (Power Query, Power Pivot).
-* **Hito:** Incluye prácticas del curso de Excel Avanzado de Santander.
+#### 📦 [Stock Audit System](https://github.com/GuilleBerrutti/stock-audit-project)
+Sistema de auditoría de inventario con alertas dinámicas y lógica de semaforización para stock crítico.
+* **Tecnologías:** SQL, Excel Avanzado.
 
 ---
 
-### 📈 En qué estoy trabajando
-* 🐍 **Incursionando en Python:** Actualmente explorando librerías como Pandas y NumPy para potenciar mis flujos de ETL y análisis estadístico.
+### 📈 Mi camino actual
+* 🐍 **Incursionando en Python:** Aplicando librerías especializadas para potenciar el análisis de datos y la automatización de ETLs.
 * 🎓 **Próximo Hito:** Certificación profesional en SQL + Power BI (Mayo 2026).
-* 🎨 **Creatividad:** Desarrollo de narrativa visual aplicada al Storytelling de datos.
 
 ---
 
@@ -49,5 +45,7 @@ Modelado de datos complejo y limpieza avanzada.
 
 | Canal | Link / Contacto |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-data-analyst/) |
-| **Email** | 📧 `guilleberrutti@gmail.com` |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO_AQUI/) |
+| **Email** | 📧 `tu-correo@gmail.com` |
+
+---
