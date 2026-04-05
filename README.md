@@ -51,16 +51,3 @@ Modelado de datos complejo y limpieza avanzada.
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-data-analyst/) |
 | **Email** | 📧 `guilleberrutti@gmail.com` |
-
----
-
-
-
-
-### 📫 Conectemos
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/guillermo-data-analyst/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
