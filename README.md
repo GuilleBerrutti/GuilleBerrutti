@@ -21,7 +21,7 @@ Análisis de KPIs de recursos humanos centrado en la retención de talento y la 
 * **Herramientas:** Power BI, DAX.
 * **Foco:** Visualización de rotación y optimización de gestión de personal.
 
-#### 🛒 [E-commerce Data Analysis - Northwind](https://github.com/GuilleBerrutti/northwind-analysis)
+#### 🛒 [E-commerce Data Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 Proyecto integral sobre ventas y rentabilidad utilizando bases de datos relacionales.
 * **Herramientas:** PostgreSQL, Python, Power BI.
 * **Python Integration:** Implementación de scripts iniciales para la limpieza de datos antes de su visualización.
