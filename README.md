@@ -31,7 +31,7 @@ Sistema de auditoría de inventario con alertas visuales dinámicas.
 * **Herramientas:** SQL, Python, Excel.
 * **Python Integration:** Automatización de lógica de stock para identificar faltantes de manera proactiva.
 
-#### 📑 [Advanced Excel Analysis](https://github.com/GuilleBerrutti/people-analytics-dashboard)
+#### 📑 [Analisis de fuga](https://github.com/GuilleBerrutti/analysis-churn)
 Modelado de datos complejo y limpieza avanzada.
 * **Herramientas:** Excel (Power Query, Power Pivot).
 * **Hito:** Incluye prácticas del curso de Excel Avanzado de Santander.
