@@ -43,6 +43,20 @@ Modelado de datos complejo y limpieza avanzada.
 * 🎓 **Próximo Hito:** Certificación profesional en SQL + Power BI (Mayo 2026).
 * 🎨 **Creatividad:** Desarrollo de narrativa visual aplicada al Storytelling de datos.
 
+---
+
+### 📫 Conectemos
+
+| Canal | Link / Contacto |
+| :--- | :--- |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-data-analyst/) |
+| **Email** | 📧 `guilleberrutti@gmail.com` |
+
+---
+
+
+
+
 ### 📫 Conectemos
 
 <p align="left">
