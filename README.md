@@ -47,11 +47,10 @@ Modelado de datos complejo y limpieza avanzada.
 ### 📫 Conectemos
 
 <p align="left">
-<a href="https://linkedin.com/in/guillermo-data-analyst" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:guilleberrutti@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+<a href="https://www.linkedin.com/in/guillermo-data-analyst/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-
+📧 **Correo electrónico:** [guilleberrutti@gmail.com](guilleberrutti@gmail.com)
 
 ### 📫 Conectemos
 
