@@ -25,7 +25,7 @@ Estudio predictivo sobre la pérdida de clientes. Utilizo **Python** para el pro
 Análisis integral de RRHH orientado a la retención de talento y optimización del clima organizacional.
 * **Tecnologías:** Power BI, DAX.
 
-#### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/northwind-analysis)
+#### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 Estudio detallado de ventas, inventario y rentabilidad utilizando una base de datos relacional robusta.
 * **Tecnologías:** PostgreSQL, Power BI.
 
