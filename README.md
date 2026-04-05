@@ -26,8 +26,9 @@ Análisis integral de RRHH orientado a la retención de talento y optimización 
 * **Tecnologías:** Power BI, DAX.
 
 #### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
-Estudio detallado de ventas, inventario y rentabilidad utilizando una base de datos relacional robusta.
-* **Tecnologías:** PostgreSQL, Power BI.
+Estudio detallado de ventas, inventario y rentabilidad. Implementación de scripts en **Python** para la automatización de procesos ETL.
+* **Tecnologías:** PostgreSQL, **Python**, Power BI.
+* **Foco:** Extracción y transformación eficiente de datos para reportes dinámicos.
 
 #### 📦 [Stock Audit System](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 Sistema de auditoría de inventario con alertas dinámicas y lógica de semaforización para stock crítico.
