@@ -1,52 +1,48 @@
-# 🚀 Hola, soy Guillermo | Analista de Datos en Formación
+# 🚀 Hola, soy Guillermo | Data Analyst
 
-¡Bienvenido a mi portafolio de proyectos! 
-Soy un apasionado por transformar datos crudos en información estratégica para la toma de decisiones. 
-Actualmente, me especializo en la extracción y manipulación de datos mediante **SQL (PostgreSQL)**.
+Analista de Datos con enfoque en la optimización de procesos y la creación de soluciones visuales estratégicas. Mi trabajo se centra en transformar grandes volúmenes de información en tableros de control accionables y eficientes.
 
----
+### 🛠️ Mi Stack Tecnológico
 
-## 🛠️ Mi Stack Técnico
-* **Lenguajes**: SQL (PostgreSQL / SQL Server).
-* **Herramientas**: DBeaver, pgAdmin, Git & GitHub.
-* **En Aprendizaje**: Power BI (Visualización de datos) y Python para análisis.
-
-## 🧠 Habilidades y Metodologías
-* **Resolución de Problemas**: Capacidad para desglosar requerimientos de negocio en consultas técnicas accionables.
-* **Pensamiento Analítico**: Enfoque en la integridad de los datos y detección de anomalías.
-* **Comunicación de Datos**: Traducción de métricas técnicas a insights estratégicos.
-* **Metodologías Ágiles**: Gestión de proyectos mediante control de versiones con Git.
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 📂 Proyectos Destacados
+### 📂 Proyectos Destacados
 
-### 1. [📉 Análisis de Churn (Retención de Clientes)](https://github.com/GuilleBerrutti/analysis-churn)
-* **Problema**: Evaluar el desempeño de ventas y la relación con los clientes para detectar inactividad.
-* **Solución**: Consultas complejas para calcular márgenes y segmentar clientes según su comportamiento.
-* **Key Skills**: `JOINS`, `Aggregate Functions`, `Subqueries`, `Window Functions`.
+#### 📊 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
+Análisis de KPIs de recursos humanos centrado en la retención de talento y la estructura organizacional.
+* **Herramientas:** Power BI, DAX.
+* **Foco:** Visualización de rotación y optimización de gestión de personal.
 
-### 2. [📦 Auditoría de Inventario y Control de Stock](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
-* **Problema**: Identificar productos críticos para evitar pérdida de ventas por falta de stock.
-* **Solución**: Creación de un sistema de alertas (Semáforo) mediante lógica condicional.
-* **Key Skills**: `CASE WHEN`, `Casting ::numeric`, `Data Formatting`.
+#### 🛒 [E-commerce Data Analysis - Northwind](https://github.com/GuilleBerrutti/northwind-analysis)
+Proyecto integral sobre ventas y rentabilidad utilizando bases de datos relacionales.
+* **Herramientas:** PostgreSQL, Python, Power BI.
+* **Python Integration:** Implementación de scripts iniciales para la limpieza de datos antes de su visualización.
 
-### 3. [🛒 Análisis de Datos Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
-* **Descripción**: Exploración y análisis de una base de datos de comercio electrónico para entender el flujo de pedidos y proveedores.
-* **Key Skills**: Consultas multi-tabla, filtrado avanzado y reportes de ventas mensuales e **integración con Power BI**.
+#### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/stock-audit-project)
+Sistema de auditoría de inventario con alertas visuales dinámicas.
+* **Herramientas:** SQL, Python, Excel.
+* **Python Integration:** Automatización de lógica de stock para identificar faltantes de manera proactiva.
 
----
-
-## 🎯 Objetivos 2026
-* 🎓 Finalizar mi certificación como Analista de Datos (Abril 2026).
-* 📊 Implementar dashboards interactivos en Power BI para estos proyectos SQL.
-* 🛡️ Profundizar en limpieza de datos y procesos ETL.
-
----
-
-## 📫 Conectemos
-* **LinkedIn**: [www.linkedin.com/in/guillermo-data-analyst](https://www.linkedin.com/in/guillermo-data-analyst)
-* **Email**: guilleberrutti@gmail.com
+#### 📑 [Advanced Excel Analysis](https://github.com/GuilleBerrutti/excel-pro-projects)
+Modelado de datos complejo y limpieza avanzada.
+* **Herramientas:** Excel (Power Query, Power Pivot).
+* **Hito:** Incluye prácticas del curso de Excel Avanzado de Santander.
 
 ---
-*“Los datos son solo números hasta que les das una estructura y un propósito.”*
+
+### 📈 En qué estoy trabajando
+* 🐍 **Incursionando en Python:** Actualmente explorando librerías como Pandas y NumPy para potenciar mis flujos de ETL y análisis estadístico.
+* 🎓 **Próximo Hito:** Certificación profesional en SQL + Power BI (Mayo 2026).
+* 🎨 **Creatividad:** Desarrollo de narrativa visual aplicada al Storytelling de datos.
+
+### 📫 Conectemos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_AQUI)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL_AQUI)
