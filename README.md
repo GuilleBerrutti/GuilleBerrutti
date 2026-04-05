@@ -26,7 +26,7 @@ Proyecto integral sobre ventas y rentabilidad utilizando bases de datos relacion
 * **Herramientas:** PostgreSQL, Python, Power BI.
 * **Python Integration:** Implementación de scripts iniciales para la limpieza de datos antes de su visualización.
 
-#### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/stock-audit-project)
+#### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 Sistema de auditoría de inventario con alertas visuales dinámicas.
 * **Herramientas:** SQL, Python, Excel.
 * **Python Integration:** Automatización de lógica de stock para identificar faltantes de manera proactiva.
