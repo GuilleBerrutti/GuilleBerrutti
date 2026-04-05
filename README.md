@@ -46,6 +46,27 @@ Modelado de datos complejo y limpieza avanzada.
 
 ### 📫 Conectemos
 
+### 📫 Conectemos
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU_USUARIO_AQUI/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:TU_CORREO@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+
+
+
+
+
+
+
+
 <p align="left">
 <a href="https://www.linkedin.com/in/guillermo-data-analyst/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
