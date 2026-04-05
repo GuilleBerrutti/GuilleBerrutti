@@ -43,41 +43,13 @@ Modelado de datos complejo y limpieza avanzada.
 * 🎓 **Próximo Hito:** Certificación profesional en SQL + Power BI (Mayo 2026).
 * 🎨 **Creatividad:** Desarrollo de narrativa visual aplicada al Storytelling de datos.
 
-
-### 📫 Conectemos
-
 ### 📫 Conectemos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/TU_USUARIO_AQUI/" target="_blank">
+  <a href="https://www.linkedin.com/in/guillermo-data-analyst/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:TU_CORREO@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  </a> guilleberrutti@gmail.com
 </p>
-
----
-
-
-
-
-
-
-
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/guillermo-data-analyst/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>(guilleberrutti@gmail.com)
-
-
-### 📫 Conectemos
-
-<p align="left">
-<a href="https://linkedin.com/in/guillermo-data-analyst target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:guilleberrutti@gmail.com target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
