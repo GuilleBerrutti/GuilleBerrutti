@@ -28,7 +28,7 @@ Dashboard integral de gestión de talento que combina el dominio avanzado de hoj
 
 ---
 
-### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/Northwind-Analysis)
+### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 **Análisis de Ventas y Supply Chain (SQL + Power BI + Python)**
 Proyecto robusto de inteligencia de negocios centrado en la extracción de valor de bases de datos relacionales y análisis de tendencias.
 
