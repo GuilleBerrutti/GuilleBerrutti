@@ -14,34 +14,48 @@ Analista de Datos enfocado en transformar información compleja en soluciones es
 
 ---
 
-### 📂 Proyectos Destacados
-
-#### 📈 [Customer Churn Analysis](https://github.com/GuilleBerrutti/analysis-churn)
-Estudio predictivo sobre la pérdida de clientes. Utilizo **Python** para el procesamiento de datos y análisis estadístico.
-* **Tecnologías:** Python (Pandas, NumPy), Jupyter Notebook.
-* **Foco:** Identificación de patrones de abandono y limpieza de datasets complejos.
+## 📂 Proyectos Destacados de Análisis de Datos
 
 ### 👥 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
-**Análisis de Talento con Arquitectura Híbrida (Power BI + Python)**
+**Arquitectura Híbrida: Power BI + Python (Seaborn/Matplotlib)**
+Análisis integral de gestión de talento y equidad salarial. Este proyecto destaca por superar las limitaciones visuales nativas mediante el uso de **Python embebido**.
 
-Dashboard interactivo para la gestión estratégica de Recursos Humanos. El proyecto destaca por integrar análisis estadístico avanzado para identificar patrones de equidad y eficiencia organizacional.
+* **Innovación técnica:** Implementación de **Gráficos de Violín** para identificar densidades salariales y "techos de cristal" por género.
 
-* **Integración de Python (Seaborn/Matplotlib):** Superación de las limitaciones de los gráficos nativos de Power BI mediante la implementación de **Gráficos de Violín** para el análisis de densidad y dispersión salarial por género.
+* **KPIs Estratégicos:** Monitoreo de tasa de rotación (14%) y distribución de nómina por departamento.
 
-* **KPIs Críticos:** Monitoreo de tasa de rotación (14%), distribución de nómina por departamento y estado de fuerza laboral (86% activo).
+* **Stack:** Power BI, Python, DAX, Excel.
 
-* **Decisiones de Negocio:** Identificación de "techos de cristal" y segmentación de presupuesto para optimizar planes de sucesión en áreas clave como IT.
+---
 
-* **Stack:** Power BI, Python, DAX, Excel..
+### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/Northwind-Analysis)
+**Análisis de Ventas y Rentabilidad (SQL + Power BI)**
+Estudio profundo de la cadena de suministro y comportamiento de ventas utilizando la base de datos Northwind.
+* **SQL Avanzado:** Uso de **CTEs y Window Functions** para calcular el crecimiento mes a mes y el valor del ciclo de vida del cliente (CLV).
 
-#### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
-Estudio detallado de ventas, inventario y rentabilidad. Implementación de scripts en **Python** para la automatización de procesos ETL.
-* **Tecnologías:** PostgreSQL, **Python**, Power BI.
-* **Foco:** Extracción y transformación eficiente de datos para reportes dinámicos.
+* **Visualización:** Dashboard dinámico enfocado en la rentabilidad por categoría de producto y desempeño de transportistas.
 
-#### 📦 [Stock Audit System](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
-Sistema de auditoría de inventario con alertas dinámicas y lógica de semaforización para stock crítico.
-* **Tecnologías:** SQL, Excel Avanzado.
+* **Stack:** PostgreSQL, Power BI, DAX.
+
+---
+
+### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/analysis-churn)
+**Automatización y Control de Inventarios (Python + SQL)**
+Sistema inteligente de seguimiento de stock con alertas automatizadas.
+* **Automatización con Python:** Scripts para la carga masiva de datos y validación de integridad entre registros físicos y lógicos.
+
+* **Lógica de Negocio:** Implementación de lógica de "Semáforo" mediante sentencias CASE en SQL para identificar productos con rotación crítica.
+
+* **Stack:** Python (Pandas), SQL (PostgreSQL), Excel.
+
+---
+
+### 📊 [Excel Advanced Mastery - Certificación Santander](https://github.com/GuilleBerrutti/Excel-Advanced-Projects)
+**Optimización de Procesos Administrativos**
+Colección de herramientas y modelos financieros desarrollados tras la culminación del programa avanzado de Santander.
+* **Habilidades clave:** Dominio de funciones anidadas complejas (`SUPRESP`, `BUSCARV`), tablas dinámicas avanzadas y automatización de reportes mediante Macros/VBA.
+
+* **Impacto:** Reducción del tiempo de procesamiento de datos en modelos de conciliación bancaria.
 
 ---
 
