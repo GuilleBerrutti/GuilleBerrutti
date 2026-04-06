@@ -52,7 +52,7 @@ Estudio enfocado en la retención de usuarios y detección de patrones de abando
 
 ---
 
-### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/stock-audit-project)
+### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 **Control de Inventarios y Lógica de Negocio en SQL**
 Sistema de auditoría para la gestión eficiente de existencias y minimización de quiebres de stock.
 
