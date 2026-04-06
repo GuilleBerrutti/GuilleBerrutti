@@ -21,9 +21,18 @@ Estudio predictivo sobre la pérdida de clientes. Utilizo **Python** para el pro
 * **Tecnologías:** Python (Pandas, NumPy), Jupyter Notebook.
 * **Foco:** Identificación de patrones de abandono y limpieza de datasets complejos.
 
-#### 📊 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
-Análisis integral de RRHH orientado a la retención de talento y optimización del clima organizacional.
-* **Tecnologías:** Power BI, DAX.
+### 👥 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
+**Análisis de Talento con Arquitectura Híbrida (Power BI + Python)**
+
+Dashboard interactivo para la gestión estratégica de Recursos Humanos. El proyecto destaca por integrar análisis estadístico avanzado para identificar patrones de equidad y eficiencia organizacional.
+
+* **Integración de Python (Seaborn/Matplotlib):** Superación de las limitaciones de los gráficos nativos de Power BI mediante la implementación de **Gráficos de Violín** para el análisis de densidad y dispersión salarial por género.
+
+* **KPIs Críticos:** Monitoreo de tasa de rotación (14%), distribución de nómina por departamento y estado de fuerza laboral (86% activo).
+
+* **Decisiones de Negocio:** Identificación de "techos de cristal" y segmentación de presupuesto para optimizar planes de sucesión en áreas clave como IT.
+
+* **Stack:** Power BI, Python, DAX, Excel..
 
 #### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 Estudio detallado de ventas, inventario y rentabilidad. Implementación de scripts en **Python** para la automatización de procesos ETL.
