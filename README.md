@@ -75,6 +75,6 @@ Sistema de auditoría para la gestión eficiente de existencias y minimización 
 | Canal | Link / Contacto |
 | :--- | :--- |
 | **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO_AQUI/) |
-| **Email** | 📧 `tu-correo@gmail.com` |
+| **Email** | 📧 `guilleberrutti@gmail.com` |
 
 ---
