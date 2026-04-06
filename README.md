@@ -21,7 +21,7 @@ Estudio predictivo sobre la pérdida de clientes. Utilizo **Python** para el pro
 * **Tecnologías:** Python (Pandas, NumPy), Jupyter Notebook.
 * **Foco:** Identificación de patrones de abandono y limpieza de datasets complejos.
 
-#### 📊 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
+#### 📊 [Gestión de Talento y Equidad Salarial](https://github.com/GuilleBerrutti/people-analytics-dashboard)
 Análisis integral de RRHH orientado a la retención de talento y optimización del clima organizacional.
 * **Tecnologías:** Power BI, DAX.
 
