@@ -1,6 +1,6 @@
 # 🚀 Hola, soy Guillermo | Data Analyst
 
-Analista de Datos enfocado en transformar información compleja en soluciones estratégicas. Especialista en la creación de tableros de control y automatización de procesos de negocio.
+Analista de Datos enfocado en transformar información compleja en soluciones estratégicas. Especialista en la creación de tableros de control y automatización de procesos de negocio con un enfoque en resultados financieros y operativos.
 
 ### 🛠️ Mi Stack Tecnológico
 
@@ -16,14 +16,23 @@ Analista de Datos enfocado en transformar información compleja en soluciones es
 
 ## 📂 Proyectos Destacados de Análisis de Datos
 
+### 📈 [Collections Strategy Analytics](https://github.com/GuilleBerrutti/collections-strategy-analytics)
+**Business Intelligence Aplicado a Fintech (Power BI + DAX Avanzado)**
+Dashboard estratégico diseñado para la recuperación de activos y optimización de contactabilidad en carteras de crédito.
+
+* **Estrategia de Recobro:** Implementación de un **Ranking Dinámico (Top 10)** para deudores críticos y segmentación de cartera por niveles de ingreso y riesgo.
+* **Análisis de Canales:** Evaluación de la eficacia de compromiso de pago comparando gestiones vía WhatsApp y llamadas telefónicas.
+* **Diseño High-End:** Interfaz en **Modo Oscuro** optimizada para la toma de decisiones gerenciales rápidas (BLUF).
+* **Stack:** Power BI, DAX Avanzado, ETL de datos financieros.
+
+---
+
 ### 👥 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
 **Especialización en Excel Avanzado (Santander) + Integración Python**
 Dashboard integral de gestión de talento que combina el dominio avanzado de hojas de cálculo con visualización estadística de vanguardia.
 
 * **Certificación Santander:** Aplicación de funciones complejas y estructuración de datos de recursos humanos para auditoría de nómina.
-
 * **Visualización Avanzada:** Integración de **Python (Seaborn)** en Power BI para crear gráficos de violín, permitiendo un análisis profundo de la densidad salarial por género.
-
 * **Stack:** Excel Avanzado, Power BI, Python, DAX.
 
 ---
@@ -32,10 +41,8 @@ Dashboard integral de gestión de talento que combina el dominio avanzado de hoj
 **Análisis de Ventas y Supply Chain (SQL + Power BI + Python)**
 Proyecto robusto de inteligencia de negocios centrado en la extracción de valor de bases de datos relacionales y análisis de tendencias.
 
-* **Híbrido SQL/Python:** Uso de **Window Functions** para métricas de crecimiento y **Python** para el procesamiento de tendencias de ventas y visualizaciones personalizadas que complementan el reporte.
-
+* **Híbrido SQL/Python:** Uso de **Window Functions** para métricas de crecimiento y **Python** para el procesamiento de tendencias de ventas y visualizaciones personalizadas.
 * **Dashboard Ejecutivo:** Análisis de rentabilidad por categoría, desempeño de proveedores y cumplimiento de órdenes mediante Power BI.
-
 * **Stack:** PostgreSQL, Python (Pandas/Matplotlib), Power BI, DAX.
 
 ---
@@ -45,9 +52,7 @@ Proyecto robusto de inteligencia de negocios centrado en la extracción de valor
 Estudio enfocado en la retención de usuarios y detección de patrones de abandono en servicios.
 
 * **Data Science:** Uso de librerías de Python para el procesamiento de datos y análisis de correlación de variables que afectan la tasa de cancelación (Churn Rate).
-
 * **Insights:** Identificación de segmentos de clientes en riesgo para la optimización de estrategias de fidelización.
-
 * **Stack:** Python (Pandas/NumPy), Jupyter Notebooks, Matplotlib.
 
 ---
@@ -57,9 +62,7 @@ Estudio enfocado en la retención de usuarios y detección de patrones de abando
 Sistema de auditoría para la gestión eficiente de existencias y minimización de quiebres de stock.
 
 * **Lógica SQL:** Desarrollo de scripts con sentencias **CASE** y funciones de redondeo para crear un sistema de alertas tipo "semáforo" según niveles de inventario.
-
 * **Optimización:** Transformación de datos crudos en un sistema de seguimiento de auditoría para control de pérdidas.
-
 * **Stack:** PostgreSQL, Excel.
 
 ---
@@ -74,7 +77,6 @@ Sistema de auditoría para la gestión eficiente de existencias y minimización 
 
 | Canal | Link / Contacto |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO_AQUI/) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui/) |
 | **Email** | 📧 `guilleberrutti@gmail.com` |
-
 ---
