@@ -102,7 +102,7 @@ Sistema de análisis para mejorar la gestión de stock y la toma de decisiones e
 
 | Canal | Link |
 |------|------|
-| **LinkedIn** | https://www.linkedin.com/in/tu-perfil-aqui/ |
+| **LinkedIn** | https://www.linkedin.com/in/guillermo-data-analyst |
 | **Email** | guilleberrutti@gmail.com |
 
 ---
