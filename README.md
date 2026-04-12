@@ -1,8 +1,12 @@
-# 🚀 Hola, soy Guillermo | Data Analyst
+# 🚀 Guillermo Berrutti | Data Analyst
 
-Analista de Datos enfocado en transformar información compleja en soluciones estratégicas. Especialista en la creación de tableros de control y automatización de procesos de negocio con un enfoque en resultados financieros y operativos.
+Analista de Datos enfocado en transformar datos en decisiones de negocio. Experiencia en análisis financiero, operaciones y comportamiento de clientes mediante SQL, Python y herramientas de Business Intelligence.
 
-### 🛠️ Mi Stack Tecnológico
+Especializado en la construcción de dashboards, análisis exploratorio y generación de insights accionables que impactan en resultados operativos y estratégicos.
+
+---
+
+## 🛠️ Stack Tecnológico
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -14,69 +18,91 @@ Analista de Datos enfocado en transformar información compleja en soluciones es
 
 ---
 
-## 📂 Proyectos Destacados de Análisis de Datos
+## 📂 Proyectos Destacados
 
-### 📈 [Collections Strategy Analytics](https://github.com/GuilleBerrutti/collections-strategy-analytics)
-**Business Intelligence Aplicado a Fintech (Power BI + DAX Avanzado)**
-Dashboard estratégico diseñado para la recuperación de activos y optimización de contactabilidad en carteras de crédito.
+### 💳 [Credit Collections Optimization Analysis](https://github.com/GuilleBerrutti/collections-strategy-analytics)
+**Optimización de cobranzas en Fintech (Power BI + DAX)**
 
-* **Estrategia de Recobro:** Implementación de un **Ranking Dinámico (Top 10)** para deudores críticos y segmentación de cartera por niveles de ingreso y riesgo.
-* **Análisis de Canales:** Evaluación de la eficacia de compromiso de pago comparando gestiones vía WhatsApp y llamadas telefónicas.
-* **Diseño High-End:** Interfaz en **Modo Oscuro** optimizada para la toma de decisiones gerenciales rápidas (BLUF).
-* **Stack:** Power BI, DAX Avanzado, ETL de datos financieros.
+Análisis de estrategias de cobranza orientado a maximizar la recuperación de deuda y mejorar la eficiencia operativa.
 
----
+- Segmentación de clientes por riesgo y capacidad de pago  
+- Ranking dinámico de deudores críticos (Top 10)  
+- Evaluación de efectividad por canal de contacto  
+- Diseño de dashboard orientado a decisiones  
 
-### 👥 [People Analytics Dashboard](https://github.com/GuilleBerrutti/people-analytics-dashboard)
-**Especialización en Excel Avanzado (Santander) + Integración Python**
-Dashboard integral de gestión de talento que combina el dominio avanzado de hojas de cálculo con visualización estadística de vanguardia.
-
-* **Certificación Santander:** Aplicación de funciones complejas y estructuración de datos de recursos humanos para auditoría de nómina.
-* **Visualización Avanzada:** Integración de **Python (Seaborn)** en Power BI para crear gráficos de violín, permitiendo un análisis profundo de la densidad salarial por género.
-* **Stack:** Excel Avanzado, Power BI, Python, DAX.
+**Stack:** Power BI, DAX, SQL  
 
 ---
 
-### 🛒 [E-commerce Analysis - Northwind](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
-**Análisis de Ventas y Supply Chain (SQL + Power BI + Python)**
-Proyecto robusto de inteligencia de negocios centrado en la extracción de valor de bases de datos relacionales y análisis de tendencias.
+### 👥 [People Analytics: Performance & Salary Equity](https://github.com/GuilleBerrutti/people-analytics-dashboard)
+**Análisis de talento y equidad salarial (Excel + Power BI + Python)**
 
-* **Híbrido SQL/Python:** Uso de **Window Functions** para métricas de crecimiento y **Python** para el procesamiento de tendencias de ventas y visualizaciones personalizadas.
-* **Dashboard Ejecutivo:** Análisis de rentabilidad por categoría, desempeño de proveedores y cumplimiento de órdenes mediante Power BI.
-* **Stack:** PostgreSQL, Python (Pandas/Matplotlib), Power BI, DAX.
+Evaluación de desempeño, rotación y distribución salarial para optimizar la gestión de recursos humanos.
 
----
+- Identificación de áreas con alta rotación  
+- Análisis de cumplimiento de objetivos  
+- Evaluación de equidad salarial mediante visualización estadística  
+- Integración de Python para análisis de densidad  
 
-### 🔄 [Customer Churn Analysis](https://github.com/GuilleBerrutti/analysis-churn)
-**Análisis Predictivo y Automatización con Python**
-Estudio enfocado en la retención de usuarios y detección de patrones de abandono en servicios.
-
-* **Data Science:** Uso de librerías de Python para el procesamiento de datos y análisis de correlación de variables que afectan la tasa de cancelación (Churn Rate).
-* **Insights:** Identificación de segmentos de clientes en riesgo para la optimización de estrategias de fidelización.
-* **Stack:** Python (Pandas/NumPy), Jupyter Notebooks, Matplotlib.
+**Stack:** Excel, Power BI, Python  
 
 ---
 
-### 📦 [Stock Audit & Inventory System](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
-**Control de Inventarios y Lógica de Negocio en SQL**
-Sistema de auditoría para la gestión eficiente de existencias y minimización de quiebres de stock.
+### 🛒 [E-commerce Sales & Logistics Analysis](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
+**Análisis de ventas y operaciones (SQL + Python + BI)**
 
-* **Lógica SQL:** Desarrollo de scripts con sentencias **CASE** y funciones de redondeo para crear un sistema de alertas tipo "semáforo" según niveles de inventario.
-* **Optimización:** Transformación de datos crudos en un sistema de seguimiento de auditoría para control de pérdidas.
-* **Stack:** PostgreSQL, Excel.
+Proyecto de análisis integral enfocado en patrones de consumo, rendimiento logístico y proyección de ventas.
 
----
+- Identificación de categorías con mayor impacto en ingresos  
+- Análisis de tiempos de entrega y eficiencia logística  
+- Modelado de tendencias mediante regresión lineal  
+- Visualización de KPIs comerciales  
 
-### 📈 Mi camino actual
-* 🐍 **Incursionando en Python:** Aplicando librerías especializadas para potenciar el análisis de datos y la automatización de ETLs.
-* 🎓 **Próximo Hito:** Certificación profesional en SQL + Power BI (Mayo 2026).
+**Stack:** PostgreSQL, Python, Power BI  
 
 ---
 
-### 📫 Conectemos
+### 🔄 [Customer Churn Prediction & Retention Analysis](https://github.com/GuilleBerrutti/analysis-churn)
+**Análisis predictivo de abandono de clientes (Python + SQL + BI)**
 
-| Canal | Link / Contacto |
-| :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-aqui/) |
-| **Email** | 📧 `guilleberrutti@gmail.com` |
+Modelo de machine learning para identificar clientes en riesgo y optimizar estrategias de retención.
+
+- Implementación de regresión logística (~80% precisión)  
+- Identificación de variables clave de churn  
+- Segmentación de clientes en riesgo  
+- Generación de insights accionables  
+
+**Stack:** Python, SQL, Power BI  
+
+---
+
+### 📦 [Inventory Stock Control Analysis](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
+**Optimización de inventarios mediante SQL**
+
+Sistema de análisis para mejorar la gestión de stock y la toma de decisiones en compras.
+
+- Clasificación de productos según criticidad (semáforo)  
+- Identificación de sobrestock y riesgo de quiebre  
+- Cálculo de valorización de inventario  
+- Automatización de prioridades de compra  
+
+**Stack:** PostgreSQL, Excel  
+
+---
+
+## 📈 En desarrollo
+
+- 🐍 Profundizando en Python para análisis avanzado y automatización  
+- 📊 Mejora continua en modelado de datos y visualización  
+- 🎯 Enfoque en proyectos con impacto real en negocio  
+
+---
+
+## 📫 Contacto
+
+| Canal | Link |
+|------|------|
+| **LinkedIn** | https://www.linkedin.com/in/tu-perfil-aqui/ |
+| **Email** | guilleberrutti@gmail.com |
+
 ---
