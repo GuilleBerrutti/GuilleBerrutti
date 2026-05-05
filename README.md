@@ -1,8 +1,19 @@
 # 🚀 Guillermo Berrutti | Data Analyst
 
-Analista de Datos enfocado en transformar datos en decisiones de negocio. Experiencia en análisis financiero, operaciones y comportamiento de clientes mediante SQL, Python y herramientas de Business Intelligence.
+Transformo datos en decisiones de negocio que impactan en revenue, eficiencia operativa y retención de clientes.
 
-Especializado en la construcción de dashboards, análisis exploratorio y generación de insights accionables que impactan en resultados operativos y estratégicos.
+Experiencia en análisis de ventas, riesgo, comportamiento de clientes y operaciones, utilizando SQL, Python y herramientas de Business Intelligence.
+
+📊 Enfoque: convertir datos complejos en insights claros y accionables.
+
+---
+
+## 🧠 ¿Qué hago?
+
+- Detecto oportunidades de mejora en ingresos y costos  
+- Analizo comportamiento de clientes para optimizar estrategias  
+- Diseño dashboards orientados a toma de decisiones  
+- Traduzco datos en acciones concretas de negocio  
 
 ---
 
@@ -13,88 +24,97 @@ Especializado en la construcción de dashboards, análisis exploratorio y genera
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
 
 ## 📂 Proyectos Destacados
 
-### 💳 [Credit Collections Optimization Analysis](https://github.com/GuilleBerrutti/collections-strategy-analytics)
-**Optimización de cobranzas en Fintech (Power BI + DAX)**
+### 💳 ¿Cómo optimizar la recuperación de deuda en Fintech?
+[Ver proyecto](https://github.com/GuilleBerrutti/collections-strategy-analytics)
 
-Análisis de estrategias de cobranza orientado a maximizar la recuperación de deuda y mejorar la eficiencia operativa.
+Análisis de estrategias de cobranza para maximizar recupero y eficiencia operativa.
 
-- Segmentación de clientes por riesgo y capacidad de pago  
-- Ranking dinámico de deudores críticos (Top 10)  
-- Evaluación de efectividad por canal de contacto  
-- Diseño de dashboard orientado a decisiones  
+**Insights clave:**
+- Identificación de segmentos con mayor probabilidad de pago  
+- Canales de contacto con mayor efectividad  
+- Priorización de deudores críticos  
 
-**Stack:** Power BI, DAX, SQL  
-
----
-
-### 👥 [People Analytics: Performance & Salary Equity](https://github.com/GuilleBerrutti/people-analytics-dashboard)
-**Análisis de talento y equidad salarial (Excel + Power BI + Python)**
-
-Evaluación de desempeño, rotación y distribución salarial para optimizar la gestión de recursos humanos.
-
-- Identificación de áreas con alta rotación  
-- Análisis de cumplimiento de objetivos  
-- Evaluación de equidad salarial mediante visualización estadística  
-- Integración de Python para análisis de densidad  
-
-**Stack:** Excel, Power BI, Python  
+**Impacto potencial:**
+- Mejora en tasa de recuperación  
+- Reducción de costos operativos  
 
 ---
 
-### 🛒 [E-commerce Sales & Logistics Analysis](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
-**Análisis de ventas y operaciones (SQL + Python + BI)**
+### 👥 ¿Existe inequidad salarial y problemas de rotación?
+[Ver proyecto](https://github.com/GuilleBerrutti/people-analytics-dashboard)
 
-Proyecto de análisis integral enfocado en patrones de consumo, rendimiento logístico y proyección de ventas.
+Evaluación de desempeño, rotación y distribución salarial en equipos.
 
-- Identificación de categorías con mayor impacto en ingresos  
-- Análisis de tiempos de entrega y eficiencia logística  
-- Modelado de tendencias mediante regresión lineal  
-- Visualización de KPIs comerciales  
+**Insights clave:**
+- Áreas con alta rotación y bajo rendimiento  
+- Posibles brechas salariales  
+- Relación entre desempeño y compensación  
 
-**Stack:** PostgreSQL, Python, Power BI  
-
----
-
-### 🔄 [Customer Churn Prediction & Retention Analysis](https://github.com/GuilleBerrutti/analysis-churn)
-**Análisis predictivo de abandono de clientes (Python + SQL + BI)**
-
-Modelo de machine learning para identificar clientes en riesgo y optimizar estrategias de retención.
-
-- Implementación de regresión logística (~80% precisión)  
-- Identificación de variables clave de churn  
-- Segmentación de clientes en riesgo  
-- Generación de insights accionables  
-
-**Stack:** Python, SQL, Power BI  
+**Impacto potencial:**
+- Mejora en retención de talento  
+- Optimización de estructura salarial  
 
 ---
 
-### 📦 [Inventory Stock Control Analysis](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
-**Optimización de inventarios mediante SQL**
+### 🛒 ¿Qué impulsa realmente las ventas en e-commerce?
+[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 
-Sistema de análisis para mejorar la gestión de stock y la toma de decisiones en compras.
+Análisis de ventas, clientes y logística para detectar drivers de ingresos.
 
-- Clasificación de productos según criticidad (semáforo)  
-- Identificación de sobrestock y riesgo de quiebre  
-- Cálculo de valorización de inventario  
-- Automatización de prioridades de compra  
+**Insights clave:**
+- Categorías con mayor contribución a revenue  
+- Ineficiencias en tiempos de entrega  
+- Tendencias de consumo  
 
-**Stack:** PostgreSQL, Excel  
+**Impacto potencial:**
+- Optimización de ventas  
+- Mejora en logística  
+
+---
+
+### 🔄 ¿Qué clientes están en riesgo de abandono?
+[Ver proyecto](https://github.com/GuilleBerrutti/analysis-churn)
+
+Modelo predictivo para anticipar churn y mejorar retención.
+
+**Insights clave:**
+- Variables que explican el abandono  
+- Segmentos de alto riesgo  
+- Probabilidad de churn (~80% precisión)  
+
+**Impacto potencial:**
+- Reducción de pérdida de clientes  
+- Mejora en estrategias de retención  
+
+---
+
+### 📦 ¿Cómo evitar sobrestock y quiebres de inventario?
+[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
+
+Sistema de análisis para optimizar gestión de stock.
+
+**Insights clave:**
+- Productos críticos vs sobrestock  
+- Priorización de compras  
+- Riesgo de quiebre  
+
+**Impacto potencial:**
+- Reducción de costos de inventario  
+- Mejora en disponibilidad de productos  
 
 ---
 
 ## 📈 En desarrollo
 
-- 🐍 Profundizando en Python para análisis avanzado y automatización  
-- 📊 Mejora continua en modelado de datos y visualización  
-- 🎯 Enfoque en proyectos con impacto real en negocio  
+- Profundización en Python para análisis avanzado  
+- Mejora en modelado de datos y storytelling  
+- Desarrollo de proyectos con impacto en negocio real  
 
 ---
 
@@ -102,7 +122,7 @@ Sistema de análisis para mejorar la gestión de stock y la toma de decisiones e
 
 | Canal | Link |
 |------|------|
-| **LinkedIn** | https://www.linkedin.com/in/guillermo-data-analyst |
-| **Email** | guilleberrutti@gmail.com |
+| LinkedIn | https://www.linkedin.com/in/guillermo-data-analyst |
+| Email | guilleberrutti@gmail.com |
 
 ---
