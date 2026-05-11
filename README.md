@@ -9,7 +9,7 @@
 
 </p>
 
-Transformo datos en decisiones estratégicas que impactan en revenue, eficiencia operativa y experiencia del cliente.
+Transformo datos en decisiones estratégicas que impactan en renueve, eficiencia operativa y experiencia del cliente.
 
 Experiencia desarrollando soluciones analíticas orientadas a:
 - Business Intelligence
