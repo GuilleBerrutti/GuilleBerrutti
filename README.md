@@ -1,35 +1,135 @@
+# 🚀 Guillermo Berrutti | Data Analyst
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Power_BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-Analytics-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Business_Intelligence-Insights-blue?style=for-the-badge">
+
+</p>
+
+Transformo datos en decisiones estratégicas orientadas a negocio, optimización operativa y análisis financiero.
+
+Especializado en:
+- Business Intelligence
+- Financial Analytics
+- Customer Analytics
+- Data Visualization
+- Storytelling con datos
+
+📊 Enfoque:
+Convertir datos complejos en insights claros, accionables y orientados a resultados.
+
+---
+
+# 🛠️ Stack Tecnológico
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
+# 📂 Proyectos Destacados
+
+---
+
 ## 💳 Collections Risk Intelligence
+
+Proyecto de analítica financiera orientado a optimizar estrategias de cobranza mediante segmentación de riesgo, análisis de mora y priorización de cuentas críticas.
+
+### 📊 Highlights
+- Segmentación de riesgo financiero
+- Análisis Pareto de deuda
+- Recovery Funnel
+- Dashboard estratégico en Power BI
 
 [Ver proyecto](https://github.com/GuilleBerrutti/collections-risk-intelligence)
 
-Proyecto de analítica financiera orientado a optimizar estrategias de cobranza mediante segmentación de riesgo, priorización de cuentas y análisis operativo.
+---
 
-Desarrollado utilizando Power BI, DAX y SQL para identificar:
-- concentración de deuda
-- segmentos críticos de mora
-- oportunidades de recuperación
-- cuellos de botella operativos
+## 👥 People Analytics Dashboard
 
-### 📊 Hallazgos Destacados
+Análisis de rotación, desempeño y distribución salarial para detectar oportunidades de optimización organizacional.
 
-- El 75% de la deuda se concentra en una pequeña parte de los clientes.
-- Se detectaron segmentos con alta capacidad de recuperación y baja prioridad operativa.
-- El proceso de cobranza mostraba pérdidas relevantes luego de la promesa de pago.
+### 📊 Highlights
+- Rotación de talento
+- Performance analysis
+- Distribución salarial
+- People Analytics Dashboard
 
-### 🚀 Incluye
+[Ver proyecto](https://github.com/GuilleBerrutti/people-analytics-dashboard)
 
-- Dashboard interactivo en Power BI
-- Análisis Pareto
-- Recovery Funnel
-- Segmentación de riesgo
-- Storytelling financiero
-- Insights estratégicos orientados a negocio
+---
 
-### 💼 Impacto Potencial
+## 🛒 E-commerce Sales Analytics
 
-- Optimización de recursos operativos
-- Mejora de recovery rate
-- Priorización financiera inteligente
-- Reducción de costos de cobranza
+Análisis comercial y comportamiento de clientes utilizando SQL y PostgreSQL para detectar drivers de revenue y oportunidades operativas.
+
+### 📊 Highlights
+- Revenue analysis
+- Customer behavior
+- Sales trends
+- Logistics insights
+
+[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
+
+---
+
+## 🔄 Customer Churn Analysis
+
+Modelo analítico orientado a identificar clientes con riesgo de abandono y optimizar estrategias de retención.
+
+### 📊 Highlights
+- Churn prediction
+- Customer segmentation
+- Retention insights
+- Risk analysis
+
+[Ver proyecto](https://github.com/GuilleBerrutti/analysis-churn)
+
+---
+
+## 📦 Inventory Optimization Analytics
+
+Sistema analítico para optimizar inventario, reducir sobrestock y minimizar riesgos de quiebre.
+
+### 📊 Highlights
+- Inventory optimization
+- Overstock detection
+- Supply prioritization
+- Operational analytics
+
+[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
+
+---
+
+# 📈 Actualmente Aprendiendo
+
+- Python para análisis avanzado
+- Automatización de procesos analíticos
+- Storytelling ejecutivo
+- Modelado de datos avanzado
+- Financial Analytics
+
+---
+
+# 📫 Contacto
+
+| Canal | Link |
+|---|---|
+| LinkedIn | https://www.linkedin.com/in/guillermo-data-analyst |
+| Email | guilleberrutti@gmail.com |
+
+---
+
+# 🎯 Objetivo Profesional
+
+Busco mi primera oportunidad profesional como Data Analyst para ayudar a empresas a tomar mejores decisiones mediante análisis estratégico, visualización de datos y Business Intelligence.
 ```
+
 
