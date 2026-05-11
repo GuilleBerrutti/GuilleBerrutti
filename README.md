@@ -1,23 +1,41 @@
 # 🚀 Guillermo Berrutti | Data Analyst
 
-Transformo datos en decisiones de negocio que impactan en revenue, eficiencia operativa y retención de clientes.
+<p align="left">
 
-Experiencia en análisis de ventas, riesgo, comportamiento de clientes y operaciones, utilizando SQL, Python y herramientas de Business Intelligence.
+<img src="https://img.shields.io/badge/Data_Analytics-Business_Insights-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Power_BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-Data_Modeling-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-📊 Enfoque: convertir datos complejos en insights claros y accionables.
+</p>
+
+Transformo datos en decisiones estratégicas que impactan en revenue, eficiencia operativa y experiencia del cliente.
+
+Experiencia desarrollando soluciones analíticas orientadas a:
+- Business Intelligence
+- Financial Analytics
+- Customer Analytics
+- Risk Analytics
+- Operational Optimization
+
+📊 Enfoque principal:
+Convertir datos complejos en insights claros, accionables y orientados a negocio.
 
 ---
 
-## 🧠 ¿Qué hago?
+# 🧠 Especialidades
 
-- Detecto oportunidades de mejora en ingresos y costos  
-- Analizo comportamiento de clientes para optimizar estrategias  
-- Diseño dashboards orientados a toma de decisiones  
-- Traduzco datos en acciones concretas de negocio  
+- Análisis de datos y toma de decisiones
+- Storytelling con datos
+- Dashboards ejecutivos en Power BI
+- SQL para análisis de negocio
+- Segmentación y comportamiento de clientes
+- Optimización operativa basada en datos
+- Visualización estratégica
 
 ---
 
-## 🛠️ Stack Tecnológico
+# 🛠️ Stack Tecnológico
 
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
@@ -28,101 +46,145 @@ Experiencia en análisis de ventas, riesgo, comportamiento de clientes y operaci
 
 ---
 
-## 📂 Proyectos Destacados
-
-### 💳 ¿Cómo optimizar la recuperación de deuda en Fintech?
-[Ver proyecto](https://github.com/GuilleBerrutti/collections-strategy-analytics)
-
-Análisis de estrategias de cobranza para maximizar recupero y eficiencia operativa.
-
-**Insights clave:**
-- Identificación de segmentos con mayor probabilidad de pago  
-- Canales de contacto con mayor efectividad  
-- Priorización de deudores críticos  
-
-**Impacto potencial:**
-- Mejora en tasa de recuperación  
-- Reducción de costos operativos  
+# 📂 Proyectos Destacados
 
 ---
 
-### 👥 ¿Existe inequidad salarial y problemas de rotación?
-[Ver proyecto](https://github.com/GuilleBerrutti/people-analytics-dashboard)
+## 💳 Collections Risk Intelligence
+🔗 https://github.com/GuilleBerrutti/collections-risk-intelligence
 
-Evaluación de desempeño, rotación y distribución salarial en equipos.
+Dashboard financiero orientado a optimizar estrategias de cobranza y recuperación de deuda mediante segmentación de riesgo y análisis operativo.
 
-**Insights clave:**
-- Áreas con alta rotación y bajo rendimiento  
-- Posibles brechas salariales  
-- Relación entre desempeño y compensación  
+### 📌 Problema de Negocio
+Las estrategias tradicionales de cobranza suelen tratar a todos los clientes de la misma forma, generando:
+- baja eficiencia operativa
+- esfuerzos diluidos
+- menor recuperación financiera
 
-**Impacto potencial:**
-- Mejora en retención de talento  
-- Optimización de estructura salarial  
+### 📊 Solución Analítica
+Desarrollo de un dashboard estratégico utilizando:
+- Power BI
+- DAX
+- SQL
+- Power Query
 
----
+Incluye:
+- segmentación de riesgo
+- análisis Pareto
+- funnel de recuperación
+- score crediticio
+- análisis de mora
+- priorización financiera
 
-### 🛒 ¿Qué impulsa realmente las ventas en e-commerce?
-[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
+### 🚀 Insights Estratégicos
+- El 75% de la deuda se concentra en solo el 15% de clientes.
+- Identificación de segmentos de alta recuperación potencial.
+- Detección de cuellos de botella en el proceso operativo.
+- Priorización de cuentas críticas para maximizar recovery rate.
 
-Análisis de ventas, clientes y logística para detectar drivers de ingresos.
-
-**Insights clave:**
-- Categorías con mayor contribución a revenue  
-- Ineficiencias en tiempos de entrega  
-- Tendencias de consumo  
-
-**Impacto potencial:**
-- Optimización de ventas  
-- Mejora en logística  
-
----
-
-### 🔄 ¿Qué clientes están en riesgo de abandono?
-[Ver proyecto](https://github.com/GuilleBerrutti/analysis-churn)
-
-Modelo predictivo para anticipar churn y mejorar retención.
-
-**Insights clave:**
-- Variables que explican el abandono  
-- Segmentos de alto riesgo  
-- Probabilidad de churn (~80% precisión)  
-
-**Impacto potencial:**
-- Reducción de pérdida de clientes  
-- Mejora en estrategias de retención  
+### 💼 Impacto Potencial
+- Mejora en recuperación de capital.
+- Optimización de recursos operativos.
+- Reducción de costos de cobranza.
+- Mejora del flujo de caja.
 
 ---
 
-### 📦 ¿Cómo evitar sobrestock y quiebres de inventario?
-[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
+## 👥 People Analytics Dashboard
+🔗 https://github.com/GuilleBerrutti/people-analytics-dashboard
 
-Sistema de análisis para optimizar gestión de stock.
+Análisis de rotación, desempeño y distribución salarial para detectar oportunidades de optimización organizacional.
 
-**Insights clave:**
-- Productos críticos vs sobrestock  
-- Priorización de compras  
-- Riesgo de quiebre  
+### 📊 Insights Estratégicos
+- Detección de áreas con alta rotación.
+- Posibles inequidades salariales.
+- Relación entre desempeño y compensación.
+- Identificación de riesgos de pérdida de talento.
 
-**Impacto potencial:**
-- Reducción de costos de inventario  
-- Mejora en disponibilidad de productos  
-
----
-
-## 📈 En desarrollo
-
-- Profundización en Python para análisis avanzado  
-- Mejora en modelado de datos y storytelling  
-- Desarrollo de proyectos con impacto en negocio real  
+### 💼 Impacto Potencial
+- Mejora en retención.
+- Optimización salarial.
+- Reducción de rotación.
 
 ---
 
-## 📫 Contacto
+## 🛒 E-commerce Sales Analytics
+🔗 https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind
+
+Análisis de ventas y comportamiento de clientes utilizando SQL y PostgreSQL.
+
+### 📊 Insights Estratégicos
+- Categorías con mayor impacto en revenue.
+- Patrones de compra.
+- Ineficiencias logísticas.
+- Tendencias comerciales.
+
+### 💼 Impacto Potencial
+- Optimización comercial.
+- Mejora en logística.
+- Incremento de revenue.
+
+---
+
+## 🔄 Customer Churn Analysis
+🔗 https://github.com/GuilleBerrutti/analysis-churn
+
+Modelo analítico para detectar clientes con riesgo de abandono y optimizar estrategias de retención.
+
+### 📊 Insights Estratégicos
+- Variables críticas de churn.
+- Segmentos de alto riesgo.
+- Factores de abandono.
+- Predicción de comportamiento.
+
+### 💼 Impacto Potencial
+- Reducción de pérdida de clientes.
+- Mejora en fidelización.
+- Optimización de campañas de retención.
+
+---
+
+## 📦 Inventory Optimization Analytics
+🔗 https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory
+
+Sistema analítico orientado a optimizar inventario y reducir costos operativos.
+
+### 📊 Insights Estratégicos
+- Riesgo de quiebres de stock.
+- Detección de sobrestock.
+- Priorización de abastecimiento.
+- Optimización de compras.
+
+### 💼 Impacto Potencial
+- Reducción de costos.
+- Mejora de disponibilidad.
+- Optimización operativa.
+
+---
+
+# 📈 Actualmente Aprendiendo
+
+- Python para análisis avanzado
+- Automatización de procesos analíticos
+- Storytelling ejecutivo
+- Modelado de datos avanzado
+- Business & Financial Analytics
+
+---
+
+# 📫 Contacto
 
 | Canal | Link |
-|------|------|
+|---|---|
 | LinkedIn | https://www.linkedin.com/in/guillermo-data-analyst |
 | Email | guilleberrutti@gmail.com |
+
+---
+
+# 🎯 Objetivo Profesional
+
+Busco mi primera oportunidad profesional como Data Analyst para ayudar a empresas a tomar mejores decisiones mediante análisis estratégico, visualización de datos y Business Intelligence.
+```
+
 
 ---
