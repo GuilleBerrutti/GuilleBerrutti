@@ -1,4 +1,4 @@
-# 🚀 Guillermo Berrutti | Data Analyst
+# 🚀 Guillermo Berrutti | Analista de Datos
 
 <p align="left">
 
@@ -7,15 +7,16 @@
 <img src="https://img.shields.io/badge/SQL-5A5A5A?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white">
+
 </p>
 
 Transformo datos en decisiones estratégicas orientadas a negocio, optimización operativa y análisis financiero.
 
 Especializado en:
-- Business Intelligence
-- Financial Analytics
-- Customer Analytics
-- Data Visualization
+- Inteligencia de Negocios
+- Analítica Financiera
+- Analítica de Clientes
+- Visualización de Datos
 - Storytelling con datos
 
 📊 Enfoque:
@@ -31,67 +32,67 @@ Convertir datos complejos en insights claros, accionables y orientados a resulta
 
 Proyecto de analítica financiera orientado a optimizar estrategias de cobranza mediante segmentación de riesgo, análisis de mora y priorización de cuentas críticas.
 
-### 📊 Highlights
+### 📊 Aspectos Destacados
 - Segmentación de riesgo financiero
 - Análisis Pareto de deuda
-- Recovery Funnel
+- Funnel de recuperación
 - Dashboard estratégico en Power BI
 
 [Ver proyecto](https://github.com/GuilleBerrutti/collections-risk-intelligence)
 
 ---
 
-## 👥 People Analytics Dashboard
+## 👥 Dashboard de People Analytics
 
 Análisis de rotación, desempeño y distribución salarial para detectar oportunidades de optimización organizacional.
 
-### 📊 Highlights
+### 📊 Aspectos Destacados
 - Rotación de talento
-- Performance analysis
+- Análisis de desempeño
 - Distribución salarial
-- People Analytics Dashboard
+- Dashboard de People Analytics
 
 [Ver proyecto](https://github.com/GuilleBerrutti/people-analytics-dashboard)
 
 ---
 
-## 🛒 E-commerce Sales Analytics
+## 🛒 Analítica de Ventas E-commerce
 
-Análisis comercial y comportamiento de clientes utilizando SQL y PostgreSQL para detectar drivers de revenue y oportunidades operativas.
+Análisis comercial y comportamiento de clientes utilizando SQL y PostgreSQL para detectar drivers de ingresos y oportunidades operativas.
 
-### 📊 Highlights
-- Revenue analysis
-- Customer behavior
-- Sales trends
-- Logistics insights
+### 📊 Aspectos Destacados
+- Análisis de ingresos
+- Comportamiento de clientes
+- Tendencias de ventas
+- Insights logísticos
 
 [Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 
 ---
 
-## 🔄 Customer Churn Analysis
+## 🔄 Análisis de Abandono de Clientes
 
 Modelo analítico orientado a identificar clientes con riesgo de abandono y optimizar estrategias de retención.
 
-### 📊 Highlights
-- Churn prediction
-- Customer segmentation
-- Retention insights
-- Risk analysis
+### 📊 Aspectos Destacados
+- Predicción de churn
+- Segmentación de clientes
+- Insights de retención
+- Análisis de riesgo
 
 [Ver proyecto](https://github.com/GuilleBerrutti/analysis-churn)
 
 ---
 
-## 📦 Inventory Optimization Analytics
+## 📦 Analítica de Optimización de Inventario
 
 Sistema analítico para optimizar inventario, reducir sobrestock y minimizar riesgos de quiebre.
 
-### 📊 Highlights
-- Inventory optimization
-- Overstock detection
-- Supply prioritization
-- Operational analytics
+### 📊 Aspectos Destacados
+- Optimización de inventario
+- Detección de sobrestock
+- Priorización de abastecimiento
+- Analítica operativa
 
 [Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 
@@ -103,7 +104,7 @@ Sistema analítico para optimizar inventario, reducir sobrestock y minimizar rie
 - Automatización de procesos analíticos
 - Storytelling ejecutivo
 - Modelado de datos avanzado
-- Financial Analytics
+- Analítica financiera
 
 ---
 
@@ -118,7 +119,8 @@ Sistema analítico para optimizar inventario, reducir sobrestock y minimizar rie
 
 # 🎯 Objetivo Profesional
 
-Busco mi primera oportunidad profesional como Data Analyst para ayudar a empresas a tomar mejores decisiones mediante análisis estratégico, visualización de datos y Business Intelligence.
+Busco mi primera oportunidad profesional como Analista de Datos para ayudar a empresas a tomar mejores decisiones mediante análisis estratégico, visualización de datos e inteligencia de negocios.
 ```
+
 
 
