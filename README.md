@@ -2,18 +2,11 @@
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Power_BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
 
-<img src="https://img.shields.io/badge/Business_Intelligence-Insights-5B5F97?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-5A5A5A?style=for-the-badge&logo=postgresql&logoColor=white">
 
-<img src="https://img.shields.io/badge/SQL-Database-5A5A5A?style=for-the-badge&logo=postgresql&logoColor=white">
-
-<img src="https://img.shields.io/badge/Data_Analytics-Visualization-3A506B?style=for-the-badge&logoColor=white">
-
-<img src="https://img.shields.io/badge/Python-Data_Analysis-1E1E1E?style=for-the-badge&logo=python&logoColor=white">
-
-<img src="https://img.shields.io/badge/Financial_Analytics-Business_Insights-264653?style=for-the-badge&logoColor=white">
-
+<img src="https://img.shields.io/badge/Python-1E1E1E?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 Transformo datos en decisiones estratégicas orientadas a negocio, optimización operativa y análisis financiero.
