@@ -52,7 +52,7 @@ Análisis de rotación, desempeño y distribución salarial para detectar oportu
 
 ---
 
-## 🛒 [Analítica de Ventas E-commerce](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
+## 🛒 [E-commerce Sales & Logistics Intelligence](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 
 Análisis comercial y comportamiento de clientes utilizando SQL y PostgreSQL para detectar drivers de ingresos y oportunidades operativas.
 
