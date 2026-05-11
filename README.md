@@ -28,7 +28,7 @@ Convertir datos complejos en insights claros, accionables y orientados a resulta
 
 ---
 
-## 💳 Collections Risk Intelligence
+## 💳 [Collections Risk Intelligence](https://github.com/GuilleBerrutti/collections-risk-intelligence)
 
 Proyecto de analítica financiera orientado a optimizar estrategias de cobranza mediante segmentación de riesgo, análisis de mora y priorización de cuentas críticas.
 
@@ -38,11 +38,9 @@ Proyecto de analítica financiera orientado a optimizar estrategias de cobranza 
 - Funnel de recuperación
 - Dashboard estratégico en Power BI
 
-[Ver proyecto](https://github.com/GuilleBerrutti/collections-risk-intelligence)
-
 ---
 
-## 👥 Dashboard de People Analytics
+## 👥 [Dashboard de People Analytics](https://github.com/GuilleBerrutti/people-analytics-dashboard)
 
 Análisis de rotación, desempeño y distribución salarial para detectar oportunidades de optimización organizacional.
 
@@ -52,11 +50,9 @@ Análisis de rotación, desempeño y distribución salarial para detectar oportu
 - Distribución salarial
 - Dashboard de People Analytics
 
-[Ver proyecto](https://github.com/GuilleBerrutti/people-analytics-dashboard)
-
 ---
 
-## 🛒 Analítica de Ventas E-commerce
+## 🛒 [Analítica de Ventas E-commerce](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
 
 Análisis comercial y comportamiento de clientes utilizando SQL y PostgreSQL para detectar drivers de ingresos y oportunidades operativas.
 
@@ -66,11 +62,9 @@ Análisis comercial y comportamiento de clientes utilizando SQL y PostgreSQL par
 - Tendencias de ventas
 - Insights logísticos
 
-[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-northwind)
-
 ---
 
-## 🔄 Análisis de Abandono de Clientes
+## 🔄 [Análisis de Abandono de Clientes](https://github.com/GuilleBerrutti/analysis-churn)
 
 Modelo analítico orientado a identificar clientes con riesgo de abandono y optimizar estrategias de retención.
 
@@ -80,11 +74,9 @@ Modelo analítico orientado a identificar clientes con riesgo de abandono y opti
 - Insights de retención
 - Análisis de riesgo
 
-[Ver proyecto](https://github.com/GuilleBerrutti/analysis-churn)
-
 ---
 
-## 📦 Analítica de Optimización de Inventario
+## 📦 [Analítica de Optimización de Inventario](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 
 Sistema analítico para optimizar inventario, reducir sobrestock y minimizar riesgos de quiebre.
 
@@ -93,9 +85,6 @@ Sistema analítico para optimizar inventario, reducir sobrestock y minimizar rie
 - Detección de sobrestock
 - Priorización de abastecimiento
 - Analítica operativa
-
-[Ver proyecto](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
-
 ---
 
 # 📈 Actualmente Aprendiendo
