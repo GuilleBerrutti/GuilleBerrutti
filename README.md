@@ -64,7 +64,7 @@ Análisis comercial y comportamiento de clientes utilizando SQL y PostgreSQL par
 
 ---
 
-## 🔄 [Análisis de Abandono de Clientes](https://github.com/GuilleBerrutti/analysis-churn)
+## 🔄 [Customer Retention Intelligence & Predictive Churn Analytics](https://github.com/GuilleBerrutti/analysis-churn)
 
 Modelo analítico orientado a identificar clientes con riesgo de abandono y optimizar estrategias de retención.
 
