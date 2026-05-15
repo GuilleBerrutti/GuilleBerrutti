@@ -76,7 +76,7 @@ Modelo analítico orientado a identificar clientes con riesgo de abandono y opti
 
 ---
 
-## 📦 [Analítica de Optimización de Inventario](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
+## 📦 [Inventory Intelligence & Stock Optimization](https://github.com/GuilleBerrutti/sql-postgresql-data-analysis-inventory)
 
 Sistema analítico para optimizar inventario, reducir sobrestock y minimizar riesgos de quiebre.
 
