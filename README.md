@@ -28,7 +28,19 @@ Convertir datos complejos en insights claros, accionables y orientados a resulta
 
 ---
 
-## 💳 [Collections Risk Intelligence](https://github.com/GuilleBerrutti/collections-risk-intelligence)
+## 💳 [Totalnet BI — Inteligencia Comercial & Salud Operativa de Adquirencia](https://github.com/GuilleBerrutti/totalnet-bi-acquiring-analytics)
+
+Sistema *end-to-end* de inteligencia de negocio y monitoreo operativo para el ecosistema multi-adquirente de pagos electrónicos en Uruguay, integrando simulación de datos, ingeniería ETL en PostgreSQL y modelado ejecutivo en Power BI.
+
+### 📊 Aspectos Destacados
+- Monitoreo de TPV ($30,70M UYU), Take Rate efectivo (2,09%) y liquidación neta a comercios
+- Pipeline ETL en PostgreSQL con deduplicación transaccional (*Window Functions*) y esquema estrella
+- Diagnóstico de rechazos comerciales vs. fallas técnicas recuperables (37,71%)
+- Detección de anomalía regional en terminales Smart POS (Canelones, 4,04% de falla técnica)
+
+---
+
+## 💰 [Collections Risk Intelligence](https://github.com/GuilleBerrutti/collections-risk-intelligence)
 
 Proyecto de analítica financiera orientado a optimizar estrategias de cobranza mediante segmentación de riesgo, análisis de mora y priorización de cuentas críticas.
 
@@ -85,6 +97,7 @@ Sistema analítico para optimizar inventario, reducir sobrestock y minimizar rie
 - Detección de sobrestock
 - Priorización de abastecimiento
 - Analítica operativa
+
 ---
 
 # 📈 Actualmente Aprendiendo
